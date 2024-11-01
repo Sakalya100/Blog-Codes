@@ -1,2 +1,2 @@
 # Blog-Codes
-The repository for the codes of the blogs
+The repository for the codes of the blogs I write
